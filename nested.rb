@@ -78,7 +78,7 @@ def adding_matz
         #:yukihiro_matsumoto => {}
      }
 
- programmer_hash[:yukihiro_matsumoto] = {}
+ programmer_hash[:yukihiro_matsumoto] = "Ruby"
   
   
 end
