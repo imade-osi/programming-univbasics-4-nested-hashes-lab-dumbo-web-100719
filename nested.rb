@@ -76,7 +76,7 @@ def adding_matz
         }
      }
 
-        programmer_hash[:dennis_ritchie][:yukihiro_matsumoto] = ""
+        programmer_hash[:dennis_ritchie][:yukihiro_matsumoto] = "Ruby"
 end
 
 def changing_alan
