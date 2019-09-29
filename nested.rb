@@ -76,7 +76,7 @@ def adding_matz
         }
      }
 
-    
+        programmer_hash[:dennis_ritchie][:yukihiro_matsumoto] = ""
 end
 
 def changing_alan
